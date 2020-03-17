@@ -5,3 +5,11 @@ border: aqua;
 color: red;
 }
 body {background-color: powderblue;}
+
+#footer{
+background: #777777;
+color:  white;
+text-align: center;
+padding: 15%;
+
+}
